@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuestaoUm</string>
+    <string name="txtHeader">Sistema de compras</string>
+    <string name="txtTitulo">Selecionar produtos:</string>
+    <string name="item1">Arroz 1kg (R$ 2,69)</string>
+    <string name="item2">Leite longa vida (R$ 2,70)</string>
+    <string name="item3">Carne Friboi (R$ 16,70)</string>
+    <string name="item4">Feijão carioquinha 1 Kg (R$ 3,38)</string>
+    <string name="item5">Refrigerante coca-cola 2 litros (R$3,00)</string>
+</resources>
